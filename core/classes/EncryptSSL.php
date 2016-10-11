@@ -1,7 +1,6 @@
-
 <?php
-namespace msfidelis\crytoUtils\classes;
-use msfidelis\crytoUtils\classes\Crypto;
+namespace msfidelis\cryptoUtils\classes;
+use msfidelis\cryptoUtils\classes\Crypto;
 
 /**
  * OpenSSL Utils

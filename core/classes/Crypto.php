@@ -1,12 +1,11 @@
 <?php
-namespace msfidelis\crytoUtils\classes;
+namespace msfidelis\cryptoUtils\classes;
 
 /**
- *CrytoCkass
+ * CrytoClass
  * @email msfidelis01@gmail.com
  * @author Matheus Fidelis
  */
-
 class Crypto {
 
     protected $digest_alg = 'sha256';
