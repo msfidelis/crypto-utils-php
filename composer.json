@@ -1,0 +1,20 @@
+{
+    "name": "msfidelis/crytoUtils",
+    "description": "Crypto Tools for Web Services and Web Applications",
+    "homepage": "http://www.nanoshots.com.br",
+    "license": "MIT",
+    "keywords": ["library", "tool", "php", "crypto", "Security"],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "files": ["core/autoload/register.inc"]
+    },
+    "authors": [
+        {
+            "name": "Matheus Scarpato Fidelis",
+            "email": "msfidelis01@gmail.com",
+            "role": "Web Developer and Linux DevOps"
+        }
+    ]
+}
